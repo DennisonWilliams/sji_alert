@@ -1,1 +1,1 @@
-Custom Skeleton Module v1.0.0
+AJI Alert Module v1.0.0
