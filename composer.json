@@ -1,5 +1,5 @@
 {
-  "name": "DennisonWilliams/sji_alert",
+  "name": "dennison-williams-stjames/sji_alert",
   "description": "Custom Module for participant alerts at SJI",
   "type": "openemr-module",
   "license": "GPL-3.0",
@@ -11,7 +11,7 @@
     },
     {
       "name": "Dennison Williams",
-      "email": "Dennison.Williams@DennisonWilliams.com",
+      "email": "Dennison.Williams@stjamesinfirmary.org",
       "role": "Developer"
     }
   ],
